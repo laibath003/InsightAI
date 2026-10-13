@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="insight_violet">#6C4DDB</color>
+    <color name="insight_violet_dark">#5436BD</color>
+    <color name="insight_lavender">#EEE9FF</color>
+    <color name="insight_background">#F7F7FC</color>
+    <color name="insight_surface">#FFFFFF</color>
+    <color name="insight_text">#242238</color>
+    <color name="insight_secondary_text">#77758B</color>
+    <color name="insight_border">#E7E4F0</color>
+    <color name="insight_user_bubble">#6C4DDB</color>
+    <color name="insight_ai_bubble">#FFFFFF</color>
+    <color name="insight_success">#23856D</color>
+    <color name="insight_primary">#6C63FF</color>
+</resources>

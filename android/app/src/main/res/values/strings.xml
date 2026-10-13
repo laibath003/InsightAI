@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InsightAI</string>
+    <string-array name="research_modes">
+        <item>Web Research</item>
+        <item>Document Research</item>
+        <item>Both</item>
+    </string-array>
+</resources>

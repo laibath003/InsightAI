@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingTop="7dp"
+    android:paddingBottom="7dp"
+    android:paddingEnd="12dp">
+
+    <!-- Research mode label -->
+    <TextView
+        android:id="@+id/textViewResearchMode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/bg_insight_secondary_button"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:text="WEB RESEARCH"
+        android:textColor="@color/insight_violet_dark"
+        android:textSize="10sp"
+        android:letterSpacing="0.05"
+        android:fontFamily="sans-serif-medium"
+        android:visibility="gone" />
+
+    <!-- AI answer card -->
+    <TextView
+        android:id="@+id/textViewMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_insight_card"
+        android:padding="16dp"
+        android:breakStrategy="simple"
+        android:focusable="false"
+        android:lineSpacingExtra="4dp"
+        android:textColor="@color/insight_text"
+        android:textIsSelectable="true"
+        android:textSize="15sp" />
+
+    <!-- Web sources -->
+    <TextView
+        android:id="@+id/textViewSources"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/bg_insight_card"
+        android:padding="14dp"
+        android:breakStrategy="simple"
+        android:focusable="false"
+        android:lineSpacingExtra="5dp"
+        android:textColor="@color/insight_violet_dark"
+        android:textIsSelectable="true"
+        android:textSize="13sp"
+        android:visibility="gone" />
+
+</LinearLayout>
