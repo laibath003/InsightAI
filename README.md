@@ -246,6 +246,3 @@ Software Engineering Graduate | Android Developer
 
 GitHub: [@laibath003](https://github.com/laibath003)
 
-## 📄 License
-
-A license has not yet been specified. Add a `LICENSE` file if you intend to publish the project under a particular open-source license.
