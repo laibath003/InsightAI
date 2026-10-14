@@ -6,7 +6,7 @@ The application uses a Kotlin-based Android frontend and a Node.js/Express backe
 
 ## 🎥 Project Demo
 
-**Watch the InsightAI demonstration video:** [Watch the demo](https://github.com/user-attachments/assets/2c3b69b1-953b-4835-93cf-c88e796d5e20)
+https://github.com/user-attachments/assets/2c3b69b1-953b-4835-93cf-c88e796d5e20
 
 The demo showcases the application's interface, AI-powered web research, document uploads, and document-based question answering.
 
