@@ -242,7 +242,7 @@ Potential enhancements include:
 ## 👩‍💻 Developer
 
 **Laiba Tahir**  
-Software Engineering Graduate | Android Developer
+Computer Science Graduate | Android Developer
 
 GitHub: [@laibath003](https://github.com/laibath003)
 
